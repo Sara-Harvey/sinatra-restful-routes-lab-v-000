@@ -10,5 +10,6 @@ class ApplicationController < Sinatra::Base
 
   get '/recipes' do 
     
+    
 
 end
