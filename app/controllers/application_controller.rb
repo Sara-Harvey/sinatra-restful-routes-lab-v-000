@@ -28,6 +28,9 @@ class ApplicationController < Sinatra::Base
   end 
   
   get '/recipes/:id/edit' do 
+    @recipe = 
     @recipe 
-  
+    @recipe 
+    @recipe 
+    @recipe 
 end
