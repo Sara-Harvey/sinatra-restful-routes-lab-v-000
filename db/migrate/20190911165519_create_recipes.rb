@@ -1,5 +1,5 @@
 class CreateRecipes < ActiveRecord::Migration
   def change
-    create
+    create_table :recipes do 
   end
 end
